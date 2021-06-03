@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and dreadful news from Kings-street in Westminster, or a most lamentable relation of the untimely end of the Lady Phillips Who was found strangled in her chamber, on the 12th of this instant November, giving an account of all the material circumstances, attending the murther of that unfortunate lady.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59029</idno><idno type="EEBO-CITATION">99833354</idno>
+  <idno type="VID">37830</idno>
+  <idno type="EEBO-PROQUEST">2240917657</idno>
+  
+            <idno type="STC">Wing S235</idno>
+            <idno type="STC">ESTC R222126</idno>
+            <idno type="PROQUEST">99833354</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833354e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and dreadful news from Kings-street in Westminster, or a most lamentable relation of the untimely end of the Lady Phillips Who was found strangled in her chamber, on the 12th of this instant November, giving an account of all the material circumstances, attending the murther of that unfortunate lady.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Phillips, --  Lady, d. 1684 --  Early works to 1800.</term>
+               <term type="topical_term">Suicide --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37830:1"/>
+            <head>SAD AND Dreadful NEWS FROM KINGS-STREET IN Westminster, OR A most Lamentable RELATION of the untimely END OF THE Lady PHILLIPS.</head>
+            <head type="sub">Who was found STRANGLED in her Chamber, on the 12th of this instant <hi>November,</hi> giving an Account of all the material Cir<g ref="char:EOLhyphen"/>cumstances, attending the Murther of that unfortunate LADY.</head>
+            <p>SO many are the calamitious disasters of unwary Mortals, that they cannot but trou<g ref="char:EOLhyphen"/>ble a serious mind, to reflect upon the instability of earthly things, and induce Mankind, not to be too far in love with momentary pleasures, which too oft prove vanity, for if we indulge our selves with Worldly matters, and neglect the end for which we were created, no wonder if offended Heaven suffer us to fall into unsus<g ref="char:EOLhyphen"/>pected Snares, which are too frequently layed by the subtle Tempter, nor are examples wanting in this kind; as appears by many formerly related, but more especially in this which I intend the Subject of these pages, which will unfold as Lamentable a Rela<g ref="char:EOLhyphen"/>tion, of the untimely fall of a Person of Quality, as hath for many Ages past been made apparent to the World, the Impartial account of which, as it at present appears being thus.</p>
+            <p>In <hi>Kings street Westminster,</hi> lately lived the Lady <hi>Phillips,</hi> descended of an Honoura<g ref="char:EOLhyphen"/>ble Family, and formerly Marryed to a worthy Knight, and one of His Majesties Ju<g ref="char:EOLhyphen"/>stices of the Peace, <hi>&amp;c.</hi> but since his decease to one Mr. <hi>Andrew Phillips,</hi> Clerk to a Person of Quality, on whom she infinitely doated, bringing him an Estate in see simple and during life, not valued at less than 500 <hi>l. per annum;</hi> on which, for some time they lived happily, injoying themselves as far as could be perceived, by the most pry<g ref="char:EOLhyphen"/>ing eyes, notwithstanding the disproportion of years, the Lady's far exceeding his, but after some continuance of felicity, or at least what seemed no less unhappy misfortune, so ordering some dis<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tents insired, which as far as can be gathered from Report, was occasioned by the u<gap reason="illegible" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>ate Lady's refusing to sell a parcel of her Estate, appertain<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:37830:2"/>to her during term of Life; that is, to dispose of it for the time she should live, <hi>&amp;c.</hi> but whether that or any other matter occasioned the breach so it happened, that Mr. <hi>Phillips</hi> left her, and following his occasions, came seldom to visit her; which desertion increased her discontents, wherewith she strugled labouring to overcome them, as much as in her lay; but finding her self oppressed with grief, she was many times ob<g ref="char:EOLhyphen"/>served to retire, as is supposed to vent her passion, but in the end by the mediation of Friends, things were in a fair way of Reconciliation, few doubting, but a right under<g ref="char:EOLhyphen"/>standing would be had, and that former animosities would vanish, the Lady seem<g ref="char:EOLhyphen"/>ing to be much joyed thereat, but as storms succeed the smoothest calms, so here a sad calamity insued, for Mr. <hi>Phillips</hi> coming home, and being received with all respect, went after some discourse he had with his Lady, to a Neighbouring <hi>Tavern,</hi> where they seemed jocund and merry, drinking kindly to each other, and staying there some time, the People of the House rejoycing at so happy a complacency, as than appeared, when it growing somewhat late, they were over to their own House, and continued together a while, as some conjecture, after which Mr. <hi>Phillips</hi> went abroad on his occasions, leav<g ref="char:EOLhyphen"/>ing his Lady to order her domestick Affairs, but whether she imagined her self again forsaken, and that she was not so well beloved as she ought, or that giving up her thoughts to Melancholy, transported her beyond her self, I dare not determine, but so it fell out, that on the 12th of <hi>November</hi> 1684. She not appearing about the House as at other times, the Servants went in search of her, but could not for some time imagine where she was retired, till in the end, a Gentlewoman who was a Neighbour, being acquainted with the strange and surprising absence of the Lady, and perhaps suspecting she was not well searched about more narrowly, till in the end coming up three pair of stairs, and finding the door locked, her suspicion of some thing more than ordinary increased, when peeping in at the Key-hole, the fatal Spectacle ap<g ref="char:EOLhyphen"/>peared too plain, whereupon the door being broken open, and Company upon the alarum coming in, the Lady was found Strangled, in a Cord; fastened to the Mantle<g ref="char:EOLhyphen"/>tree, or Chimnley-piece, kneeling at the same time upon her Knees, or little differ<g ref="char:EOLhyphen"/>ing from it, her hands hanging down, and her Head declining not retaining any sym<g ref="char:EOLhyphen"/>ptoms of life, nor yet imagined long to have been dead. This unfortunate News soon flying abroad, and the Rumour spreading wide in the Neighbour-hood, Mr. <hi>Phillips</hi> came acquainted with the sad relation, when hastening home, in much consternation he sound what he had heard too sadly verified, when having disposed things in the best manner, the Coroners Inquest on the 14th instant, sat upon the Corps, Mr. <hi>Phil<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> upon suspicion, being than confined in his own House, but having well inquired into the Circumstances, and it appearing he was abroad, when the unhappy accident befell, that a Reconciliation seemed to have been made, and things disposed to the advantage of them both: And further, that it was for his interest, to consult her safe<g ref="char:EOLhyphen"/>ly, by reason her Death would deprive him of a considerable part of the Estate, they found it <hi>fello de see</hi> discharging him of the suspicion, upon which, order was taken for the interment of the Corps, and the solemnity performed with much decency, on the <hi>Saturday</hi> the 15th Instant.</p>
+            <p>Thus Reader, have I given you a Relation of the unfortunate end of this Lady; who was considerably stricken in years, having spent her Younger Years under the protection of tender Parents, and an indulgent Husband, whose untimely and disaste<g ref="char:EOLhyphen"/>rous end, drew tears from the Eyes of many, who formerly admired her, for her af<g ref="char:EOLhyphen"/>fable temper sober and modest behaviour, and extraordinary conduct in Affairs.</p>
+            <p>And now, that her Ill-stared fate, may be a means to prevent the like misfortune in others, ought to be the Prayers, and hearty wish of all good Christians, nor is there any better way to avoid the like Ship-wrack, than by laying hold of Christ by Faith, who only is able to frustrate and confound the malice of our implacable ad<g ref="char:EOLhyphen"/>versary, who like a roaring Lion goes about seeking, whom he may devour.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. C.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
